@@ -1,0 +1,7 @@
+
+var x = "Pamela";
+var y = "29 anos";
+document.write(x+"<br>"+y+"<br>");
+var w = "Namjoon";
+var a = "28 anos";
+document.write(w+"<br>"+a);
